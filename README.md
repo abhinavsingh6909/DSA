@@ -25,7 +25,7 @@ I am solving problems daily to strengthen my problem-solving skills and prepare 
 
 | Topic                    | Problems Solved |
 | ------------------------ | --------------- |
-| Arrays                   | 16              |
+| Arrays                   | 20              |
 | Linked List              | 0               |
 | Greedy Algo              | 0               |
 | Recursion & Backtracking | 0               |
@@ -43,12 +43,13 @@ I am solving problems daily to strengthen my problem-solving skills and prepare 
 
 ## 📅 Daily Progress
 
-| Day             | Problems | Topics |
-| --------------- | -------- | ------ |
-| Day 1 5th March | 4        | Arrays |
-| Day 2 6th March | 4        | Arrays |
-| Day 3 7th March | 4        | Arrays |
-| Day 4 8th March | 4        | Arrays |
+| Day               | Problems | Topics |
+| ----------------- | -------- | ------ |
+| Day 1 - 5th March | 4        | Arrays |
+| Day 2 - 6th March | 4        | Arrays |
+| Day 3 - 7th March | 4        | Arrays |
+| Day 4 - 8th March | 4        | Arrays |
+| Day 5 - 9th March | 4        | Arrays |
 
 ---
 

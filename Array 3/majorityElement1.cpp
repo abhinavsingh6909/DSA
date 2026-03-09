@@ -1,3 +1,4 @@
+//MOORE's VOTING ALGORITHM
 //Find the Majority Element that occurs more than N/2 times
 
 //Problem Statement: Given an integer array nums of size n, return the majority element of the array.
