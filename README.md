@@ -25,7 +25,7 @@ I am solving problems daily to strengthen my problem-solving skills and prepare 
 
 | Topic                    | Problems Solved |
 | ------------------------ | --------------- |
-| Arrays                   | 20              |
+| Arrays                   | 24              |
 | Linked List              | 0               |
 | Greedy Algo              | 0               |
 | Recursion & Backtracking | 0               |
