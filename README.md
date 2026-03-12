@@ -11,7 +11,7 @@ I am solving problems daily to strengthen my problem-solving skills and prepare 
 - Master DSA fundamentals
 - Solve 200+ problems
 - Improve problem-solving speed
-- Prepare for FAANG / top product companies
+- Prepare for top product companies
 
 ---
 
@@ -26,7 +26,7 @@ I am solving problems daily to strengthen my problem-solving skills and prepare 
 | Topic                    | Problems Solved |
 | ------------------------ | --------------- |
 | Arrays                   | 24              |
-| Binary Search            | 5               |
+| Binary Search            | 8               |
 | Recursion & Backtracking | 0               |
 | Linked List              | 0               |
 | Greedy Algo              | 0               |
@@ -51,7 +51,8 @@ I am solving problems daily to strengthen my problem-solving skills and prepare 
 | Day 4 - 8th March  | 4        | Arrays        |
 | Day 5 - 9th March  | 4        | Arrays        |
 | Day 6 - 10th March | 4        | Arrays        |
-| Day 7 - 11th March | 5        | Binary Search |
+| Day 7 - 11th March | 4        | Binary Search |
+| Day 8 - 12th March | 4        | Binary Search |
 
 ---
 
@@ -75,11 +76,3 @@ For every problem I focus on:
 4. Revising important problems
 
 ---
-
-## ⭐ Target Companies
-
-Preparing for interviews at:
-
-- FAANG
-- Product-based companies
-- High-paying startups
