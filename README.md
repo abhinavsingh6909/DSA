@@ -26,7 +26,7 @@ I am solving problems daily to strengthen my problem-solving skills and prepare 
 | Topic                    | Problems Solved |
 | ------------------------ | --------------- |
 | Arrays                   | 24              |
-| Binary Search            | 8               |
+| Binary Search            | 10              |
 | Recursion & Backtracking | 0               |
 | Linked List              | 0               |
 | Greedy Algo              | 0               |
@@ -53,6 +53,7 @@ I am solving problems daily to strengthen my problem-solving skills and prepare 
 | Day 6 - 10th March | 4        | Arrays        |
 | Day 7 - 11th March | 4        | Binary Search |
 | Day 8 - 12th March | 4        | Binary Search |
+| Day 9 - 13th March | 2        | Binary Search |
 
 ---
 
